@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1f5b09e1f659a5a4dac4f5deac4a5bdd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - OuchEffect: {instanceID: 0}
+  - PlayerHitSound: {fileID: 8300000, guid: 7a85ab03afadebc47ae63cff7d70d9b3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
